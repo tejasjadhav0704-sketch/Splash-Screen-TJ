@@ -42,4 +42,4 @@ Download Git in your System from your favourite Browser's
 Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/tejasjadhav0704-sketch/Splash-Screen-TJ.git
