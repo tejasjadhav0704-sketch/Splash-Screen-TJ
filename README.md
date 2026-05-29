@@ -37,7 +37,9 @@ It provides a smooth and modern startup experience.
 
 ## How to Run
 
+Download Git in your System from your favourite Browser's
+
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tj-app.git
+git clone 
