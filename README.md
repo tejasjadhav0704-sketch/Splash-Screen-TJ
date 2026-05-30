@@ -4,6 +4,18 @@ A modern Android application with a smooth and premium splash screen experience 
 
 ---
 
+## OUTPUT
+Splash Screen
+<p align="center">
+  <img src="Screenshots/tjsplash.gif" width="300">
+</p>
+First Screen
+<p align="center">
+  <img src="Screenshots/Screenshot_20260530-232855.png" width="300">
+</p>
+
+---
+
 ## Features
 
 - Clean UI designed in Figma  
